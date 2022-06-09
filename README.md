@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shivompal
+- 👋 Hi, I’m Shiv Om pal
 - 👀 I’m interested in working on React + Node
 - 🌱 I’m currently learning Typescript + Docker
 - 💞️ I’m looking to collaborate on open source projects
