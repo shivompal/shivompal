@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shiv Om pal
-- 👀 I’m interested in working on Python + React + Node + Django
-- 🌱 I’m currently learning Python, Django, Docker
+- 👀 I’m interested in working on JavaScript/TypeScript, React/Redux, Express/Node, MySQL/MongoDB
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 Reach me at shivompal@gmail.com
 
