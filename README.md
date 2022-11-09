@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shiv Om pal
-- 👀 I’m interested in working on React/Redux, Express/Node, MySQL/MongoDB, Remix etc.
+- 👀 I’m interested in working on React/Redux, Express/Node, MySQL/MongoDB, Remix Framework etc.
 - 🌱 I’m currently learning Remix
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 Reach me at shivompal@gmail.com
