@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shiv Om pal
-- 👀 I’m interested in working in Full-stack software development using React/Redux, Express/Node, MySQL/MongoDB etc.
+- 👀 I’m interested in working for Full-stack web development (React/NextJS, Express/Node, MySQL/MongoDB)
 - 🌱 I’m currently learning Next.js
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 Reach me at shivompal@gmail.com
