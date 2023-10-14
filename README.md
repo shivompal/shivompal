@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shiv Om pal
-- 👀 I’m interested in working as Full-stack engineer (React/NextJS 13, Express/Node, MySQL/MongoDB)
+- 👀 I’m interested in working as Full-stack Engineer (React/NextJS 13, Express/Node, MySQL/MongoDB)
 - 🌱 I’m currently learning Next.js
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 Reach me at shivompal@gmail.com
