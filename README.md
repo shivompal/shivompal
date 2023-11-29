@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shiv Om pal
 - 👀 I’m interested in working as Full-stack Engineer (React.js-18/Next.js-14, Express/Node, MySQL/MongoDB)
-- 🌱 I’m currently learning PostgreSQL
+- 🌱 I’m currently learning Design Thinking
 - 💞️ I’m looking for Full-stack development job
 - 📫 Reach me at shivompal@gmail.com
 
