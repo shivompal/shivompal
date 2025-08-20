@@ -1,3 +1,6 @@
+<!-- Animated Typing Banner -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C4FF&width=600&lines=Hi%2C+I'm+Shiv+Om+Pal;Full-stack+Engineer+%7C+Software+Architect;Building+Scalable+%26+AI-powered+Applications;Let's+Build+Something+Amazing!)](https://git.io/typing-svg)
+
 # 👋 Hi, I’m Shiv Om Pal
 
 💡 *"Turning ideas into scalable, high-performance applications with precision and creativity."*
@@ -23,6 +26,13 @@ Currently exploring **AI/ML** and its integration into real-world web applicatio
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-28A745?style=for-the-badge&logo=scrumalliance&logoColor=white)
+
+---
+
+<!-- Animated Skills Carousel -->
+<p align="center">
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1500&color=00FFB3&center=true&vCenter=true&width=800&lines=Python+%7C+TypeScript+%7C+JavaScript;Django+%7C+React+%7C+Next.js;Node.js+%7C+Express.js;MySQL+%7C+PostgreSQL+%7C+MongoDB;Docker+%7C+AWS+%7C+Agile" alt="Skills Carousel" /></a>
+</p>
 
 ---
 
