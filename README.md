@@ -1,5 +1,7 @@
 # 👋 Hi, I’m Shiv Om Pal
 
+💡 *"Turning ideas into scalable, high-performance applications with precision and creativity."*
+
 ## 👀 About Me
 I am a passionate **Full-stack Engineer & Software Architect** with expertise in building scalable, secure, and high-performance applications.  
 Currently exploring **AI/ML** and its integration into real-world web applications.
@@ -24,6 +26,12 @@ Currently exploring **AI/ML** and its integration into real-world web applicatio
 
 ---
 
+## 📌 Featured Projects
+[![UnityMatch](https://github-readme-stats.vercel.app/api/pin/?username=shivompal&repo=unitymatch&theme=tokyonight)](https://github.com/shivompal/unitymatch)  
+[![UnityMatch-Auth](https://github-readme-stats.vercel.app/api/pin/?username=shivompal&repo=unitymatch-auth&theme=tokyonight)](https://github.com/shivompal/unitymatch-auth)
+
+---
+
 ## 📊 GitHub Stats
 ![Shiv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivompal&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivompal&layout=compact&theme=tokyonight)  
@@ -40,7 +48,8 @@ Opportunities to:
 
 ## 📫 Contact Me
 📧 [shivompal@gmail.com](mailto:shivompal@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/shiv-om-pal) | [GitHub](https://github.com/shivompal)
+🔗 [LinkedIn](https://www.linkedin.com/in/shiv-om-pal) | [GitHub](https://github.com/shivompal)  
 
 ---
-💡 *Let’s build something amazing together!*
+
+![Visitor Count](https://komarev.com/ghpvc/?username=shivompal&color=blue&style=for-the-badge)
