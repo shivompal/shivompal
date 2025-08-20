@@ -58,7 +58,6 @@ Opportunities to:
 
 ## 📫 Contact Me
 📧 [shivompal@gmail.com](mailto:shivompal@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/shiv-om-pal) | [GitHub](https://github.com/shivompal)  
 
 ---
 
