@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shiv Om Pal
 - 👀 I’m interested in working as Full-stack Engineer | Architect
 - 🌱 I’m currently learning AI/ML and its integration into web applications
-- 💞️ I’m looking for work in (Python/Django, React/NextJS, Express/NodeJS, MySQL/PostgreSQL/MongoDB)
+- 💞️ I’m looking for opportunities to work in Technologies (Python, TypeScript, Django, React, NextJS, ExpressJS, NodeJS, MySQL, PostgreSQL, and MongoDB etc.)
 - 📫 Reach me at shivompal@gmail.com
 
 <!---
