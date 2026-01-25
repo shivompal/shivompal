@@ -6,7 +6,7 @@
 💡 *"Turning ideas into scalable, high-performance applications with precision and creativity."*
 
 ## 👀 About Me
-I am a passionate **Full-stack Engineer & Software Architect** with expertise in building scalable, secure, and high-performance applications.  
+I am a passionate **Software Engineer | Architect** with expertise in building scalable, secure, and high-performance applications.  
 Currently exploring **AI/ML** and its integration into real-world web applications.
 
 ---
