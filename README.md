@@ -37,8 +37,8 @@ Currently exploring **AI/ML** and its integration into real-world web applicatio
 ---
 
 ## 📌 Featured Projects
-[![UnityMatch](https://github-readme-stats.vercel.app/api/pin/?username=shivompal&repo=unitymatch&theme=tokyonight)](https://github.com/shivompal/unitymatch)  
-[![UnityMatch-Auth](https://github-readme-stats.vercel.app/api/pin/?username=shivompal&repo=unitymatch-auth&theme=tokyonight)](https://github.com/shivompal/unitymatch-auth)
+[![UnityStore]# (https://github-readme-stats.vercel.app/api/pin/?username=shivompal&repo=unitymatch&theme=tokyonight)](https://github.com/shivompal/unitymatch)  
+[![UnityMatch]#(https://github-readme-stats.vercel.app/api/pin/?username=shivompal&repo=unitymatch-auth&theme=tokyonight)](https://github.com/shivompal/unitymatch-auth)
 
 ---
 
