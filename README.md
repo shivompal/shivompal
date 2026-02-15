@@ -37,8 +37,8 @@ Currently exploring **AI/ML** and its integration into real-world web applicatio
 ---
 
 ## 📌 Featured Projects
-[UnityStore](https://github.com/shivompal/unitymatch)
-[UnityMatch]
+![UnityMatch](https://github.com/shivompal/unitymatch)
+![UnityStore]
 
 ---
 
