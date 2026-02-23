@@ -37,7 +37,7 @@ Currently exploring **AI/ML** and its integration into real-world web applicatio
 ---
 
 ## 📌 Featured Projects
-![UnityMatch](https://github.com/shivompal/unitymatch)
+![AI-powered match making matrimonial platform](https://github.com/shivompal/unitymatch)
 
 ---
 
