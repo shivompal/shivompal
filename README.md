@@ -6,10 +6,10 @@
 💡 *"Turning ideas into scalable, high-performance applications with precision and creativity."*
 
 ## 👀 About Me
-I am a passionate **Software Engineer | Architect** with expertise in building scalable, secure, and high-performance applications.  
+I am a passionate **AI Software Engineer** with expertise in building scalable, secure, and high-performance applications.  
 Currently exploring **AI/ML** and its integration into real-world web applications.
 
----
+--- 
 
 ## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
